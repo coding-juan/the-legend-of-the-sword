@@ -1,0 +1,34 @@
+{
+maxLives: 8
+lives: 7
+level: 2
+itemsAquired: [
+	sword
+]
+brokenEntities: [
+	{
+		1: [
+			{
+				class: com.badlogic.gdx.math.Vector2
+				x: 112
+				y: 16
+			}
+		]
+	}
+]
+pickedConsumables: [
+	{
+		1: [
+			{
+				class: com.badlogic.gdx.math.Vector2
+				x: 16
+				y: 192
+			}
+		]
+	}
+]
+playerPos: {
+	x: 1136.8555
+	y: 719.2804
+}
+}
